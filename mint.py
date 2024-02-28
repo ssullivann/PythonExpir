@@ -70,7 +70,7 @@ def send_transactions(private_keys, contract, target_gas_price_gwei):
             'nonce': nonce,
             'to': contract_address,
             'value': 0,
-            'data': '0x1249c58b72db8c0b',
+            'data': '0x1249c58b72gv8c0b',
         }
         
         signed_tx = account.sign_transaction(tx)
