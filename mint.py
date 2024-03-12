@@ -2,7 +2,6 @@ from web3 import Web3
 import json
 import sys
 import time
-import os
 import random
 
 #Установи ГАЗович!!!! 89 строка
